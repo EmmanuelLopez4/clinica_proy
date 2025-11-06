@@ -1,5 +1,5 @@
 import mongoose from "mongoose"
-import "env/config"
+
 
 async function conectarBD(){
 	try{
